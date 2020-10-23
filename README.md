@@ -1,5 +1,1 @@
-<p align="center"><img src="bg0.jpg" alt="atatine co"></p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/made%20in-tanzania-green?style=for-the-badge" alt="made in tanzania">
-</p>
+<p align="center"><img src="https://astatine.co.tz/wp-content/uploads/2019/11/ASTATINE-15.svg" alt="atatine co"></p>
